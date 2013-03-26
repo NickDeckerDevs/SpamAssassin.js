@@ -1,7 +1,7 @@
 SpamAssassin.js
 ===============
 
-Postmark Spam Assassin Pure JS
+Postmark Spam Assassin Pure JS.  This is in production and doesn't have any backend features yet.  learning JSON
 
 
 An example of how to use this from a form page.  
